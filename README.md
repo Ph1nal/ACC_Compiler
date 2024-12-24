@@ -1,2 +1,2 @@
 # ACC_Compiler
-Point_NeXt
+For Point_NeXt acceleration
